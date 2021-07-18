@@ -1,6 +1,10 @@
 # TicTacToe
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.o
+
+##Live Demo
+you can find the live demo of application at   https://sai-kiran14.github.io/tictactoe/
+
 
 ## Development server
 
